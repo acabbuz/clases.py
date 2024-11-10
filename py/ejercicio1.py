@@ -49,6 +49,10 @@ print(f"my_number is my_new_number = {my_number is my_new_number}")
 print(f"my_number is not my_new_number = {my_number is not my_new_number}")
 
 #Operadores de pertenenecia
-
 print(f" 'u' in 'moure' : {'u' in 'moure'}")
 print(f" 'b' in 'moure' : {'u' not in 'moure'}")
+
+#OIperadores bit
+a = 10 #
+b = 3  #
+c= 10 
